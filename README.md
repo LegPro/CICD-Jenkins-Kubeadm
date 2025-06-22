@@ -6,7 +6,7 @@
 
 ---
 
-## Infrastructure Requirements
+## Infrastructure Requirements (Create Infra using Terraform, terraform folder has IAC)
 
 You will need **three AWS EC2 instances**:
 
